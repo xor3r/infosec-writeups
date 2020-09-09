@@ -12,6 +12,7 @@ Archive of useful sources I keep collecting during my information security journ
 
 *Tools*
 * [Ghidra Bridge](https://github.com/justfoxing/ghidra_bridge) - RPC proxy for Python objects.
+* [FireEye Floss](https://github.com/fireeye/flare-floss) - FireEye Labs obfuscated string solver.
 
 ### Threat Intelligence Corner 
 *Resources*
@@ -21,6 +22,8 @@ Archive of useful sources I keep collecting during my information security journ
 * [OSINT Tools](https://github.com/HowToFind-bot/osint-tools) - Various OSINT tools and scripts.
 * [Awesome Treat Intelligence](https://github.com/hslatman/awesome-threat-intelligence) - An extensive repository with TI tools and techniques.
 * [Awesome IOCs](https://github.com/sroberts/awesome-iocs) - An awesome collection of indicators of compromise (and a few IOC related tools).
+* [ThreatCrowd](https://www.threatcrowd.org/) - A search engine for threats.
+* [OSINT Framework](https://osintframework.com) - Project focused on gathering information from free tools or resources.
 
 *Feeds*
 * [ThreatFeeds](https://threatfeeds.io/) - List of free feeds, with status checks.
@@ -39,6 +42,7 @@ Archive of useful sources I keep collecting during my information security journ
 * [GOSINT](https://github.com/ciscocsirt/GOSINT) - Open Source Threat Intelligence Gathering and Processing Framework.
 * [Crits](https://github.com/crits/crits) - A web-based tool which combines an analytic engine with a cyber threat database.
 * [MalTrail](https://github.com/stamparm/maltrail) - A malicious traffic detection system.
+* [TheHive](https://blog.thehive-project.org/) - Open Source, Free and Scalable Cyber Threat Intelligence & Security Incident Response Solutions.
 
 *APT*
 * [APT Groups | FireEye](https://www.fireeye.com/current-threats/apt-groups.html) - Basic information about APT groups by FireEye.
@@ -48,6 +52,10 @@ Archive of useful sources I keep collecting during my information security journ
 * [Mirror-H](https://mirror-h.org/) - Website snapshots.
 * [Defacer](https://defacer.id/) - Defaced websites.
 * [OverflowZone](http://overflowzone.com/) - Most vulnerable countries by websites.
+* [Disclose.io](https://disclose.io) - A cross-industry, vendor-agnostic standardization project for safe harbor best practices to enable good-faith security research.
+
+*Honeypots*
+* [Thug](https://github.com/buffer/thug) - Python low-interaction honeyclient aimed at mimicing the behavior of a web browser.
 
 ### SOC Corner
 *Resources*
@@ -79,6 +87,7 @@ Archive of useful sources I keep collecting during my information security journ
 ### Blogs
 * [Schneier on Security](https://www.schneier.com/) - Bruce Schneier's blog: Cryptography, Threat Intelligence.
 * [Security Soup](https://security-soup.net/) - Ryan Campbell's blog: Threat Intelligence, DFIR.
+* [Virus Bulletin](https://www.virusbulletin.com/blog/) - Covering the global threat landscape.
 
 ### Media
 * [CCC Media](https://media.ccc.de/) - Talks from CCC conferences.
