@@ -6,12 +6,16 @@ Archive of useful sources I keep collecting during my information security journ
 ### Malware Analysis & Reverse Engineering Corner
 *Malware Sources*
 * [Koodous](https://koodous.com/) - Samples from Play Market and community.
+* [MalShare](https://malshare.com/) - Access to samples, malicious feeds, and Yara results.
 
 *Techniques*
 * [Evasion Techniques](https://evasions.checkpoint.com/) - Extensive description of popular evasion techniques.
 
 *Tools*
 * [Ghidra Bridge](https://github.com/justfoxing/ghidra_bridge) - RPC proxy for Python objects.
+
+*Blogs*
+* [Lenny Zelster](https://zeltser.com/) - Information Security in Business.
 
 ### Threat Intelligence Corner 
 *Resources*
@@ -21,6 +25,8 @@ Archive of useful sources I keep collecting during my information security journ
 * [OSINT Tools](https://github.com/HowToFind-bot/osint-tools) - Various OSINT tools and scripts.
 * [Awesome Treat Intelligence](https://github.com/hslatman/awesome-threat-intelligence) - An extensive repository with TI tools and techniques.
 * [Awesome IOCs](https://github.com/sroberts/awesome-iocs) - An awesome collection of indicators of compromise (and a few IOC related tools).
+* [Gruja RS](https://www.youtube.com/c/CyberSecurityGrujaRS/videos) - Demonstration of ransomware attack video review.
+* [CSIRT Gadgets](https://csirtgadgets.com/) - Applied research, content and tools to help you solve real problems.
 
 *Feeds*
 * [ThreatFeeds](https://threatfeeds.io/) - List of free feeds, with status checks.
