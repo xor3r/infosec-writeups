@@ -26,13 +26,10 @@ Archive of useful sources I keep collecting during my information security journ
 * [OSINT Tools](https://github.com/HowToFind-bot/osint-tools) - Various OSINT tools and scripts.
 * [Awesome Treat Intelligence](https://github.com/hslatman/awesome-threat-intelligence) - An extensive repository with TI tools and techniques.
 * [Awesome IOCs](https://github.com/sroberts/awesome-iocs) - An awesome collection of indicators of compromise (and a few IOC related tools).
-<<<<<<< HEAD
 * [Gruja RS](https://www.youtube.com/c/CyberSecurityGrujaRS/videos) - Demonstration of ransomware attack video review.
 * [CSIRT Gadgets](https://csirtgadgets.com/) - Applied research, content and tools to help you solve real problems.
-=======
 * [ThreatCrowd](https://www.threatcrowd.org/) - A search engine for threats.
 * [OSINT Framework](https://osintframework.com) - Project focused on gathering information from free tools or resources.
->>>>>>> b09ee39fc03976ff4a7c22386acddbb89e94e2b9
 
 *Feeds*
 * [ThreatFeeds](https://threatfeeds.io/) - List of free feeds, with status checks.
